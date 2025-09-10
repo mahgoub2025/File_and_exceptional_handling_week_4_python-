@@ -1,7 +1,5 @@
 # File_and_exceptional_handling_week_4_python-
 
-***
-
 # File Read & Write 🖋️
 
 ## Overview
