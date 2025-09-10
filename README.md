@@ -18,9 +18,3 @@ This Python project demonstrates reading a file, modifying its content, and savi
 2. Run the program with Python 3.
 3. Follow the prompts to select a file and modification type.
 4. Type `exit` to quit the program.
-
-## License
-This project is licensed under the MIT License.
-
-## Author
-- **Your Name** – [GitHub Profile](https://github.com/your-username)
